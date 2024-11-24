@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @azwri
-- 👀 I’m interested in python, django, data science and machine learning.
-- 🌱 I’m currently learning machine learning, php, laravel.
-- 💞️ I’m looking to collaborate on machine learning, web development and data analysis.
+- 👀 I’m programmer, I code in Java & python, I use Spring boot & django frameworks.
 - 📫 Reach me on twitter https://twitter.com/Al_Azwari
 
 <!---
