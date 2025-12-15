@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azwri
-- 👀 I’m programmer, I code in Java & python, I use Spring boot & django frameworks.
+- 👀 Passionate About LLM, Innovation, People & Impact
 - 📫 Reach me on twitter https://twitter.com/Al_Azwari
 
 <!---
